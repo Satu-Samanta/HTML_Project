@@ -1,4 +1,4 @@
 # HTML_Project
 HTML_Project
 
-Author: Satu
+Author: Satu (Samanta)
